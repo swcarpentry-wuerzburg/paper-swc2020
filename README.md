@@ -2,7 +2,7 @@
 
 Author List:
 
-Markus Ankenbrand, Torsten Paul, Florian Goth, Ishwar
+Markus Ankenbrand, Torsten Paul, Florian Goth, Ishwar, Laura
 
 A place for the SWC-2020-11-17 course to collaboratively produce a paper
 

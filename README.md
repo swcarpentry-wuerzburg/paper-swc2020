@@ -2,7 +2,7 @@
 
 Author List:
 
-Markus Ankenbrand, Torsten Paul, Florian Goth, Ishwar, Marius, Alexandre Alvarez, Maria Valeska, Michi,Sanjana, Laura, Eva, Farieda Gaber
+Markus Ankenbrand, Torsten Paul, Florian Goth, Ishwar, Alexandre Alvarez, Maria Valeska, Michi, Jitske Bak, Sanjana, Laura, Eve, Farieda
 
 A place for the SWC-2020-11-17 course to collaboratively produce a paper
 

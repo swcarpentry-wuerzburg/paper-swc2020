@@ -8,5 +8,5 @@ Markus Ankenbrand, Torsten Paul, Florian Goth, C.B., Ishwar, Alexandre Alvarez, 
 
 A place for the SWC-2020-11-17 course to collaboratively produce a paper
 
-[swc_workshop_python.ipynb](Jupyter Notebook by Torsten.)
+[Jupyter Notebook by Torsten.](swc_workshop_python.ipynb)
 
